@@ -1,0 +1,49 @@
+body{
+  background-image: url("joyeux_anniv.jpg");
+
+  background-size: cover;
+}
+#first{
+  background:#96FF0D;
+  padding:20px;
+  border:1px pink solid;
+  width:200px;
+  margin:30px;
+}
+#second{
+  background:#0CE80D;
+  padding:30px;
+  border:20px #A5F90D groove;
+  width:250px;
+  margin:30px;
+}
+#third{
+  background:#00FF79;
+  padding:25px;
+  border:20px #00FF79 ridge;
+  width:200px;
+  margin:30px;
+}
+#fourth{
+  background:#0CE8DB;
+  padding:30px;
+  border:30px blue;
+  width:400px;
+  margin:30px;
+}
+
+li{
+  list-style-type:none;
+}
+#hornel{
+  position: absolute;
+  left:0px;
+  bottom:140px;
+
+}
+#horner{
+  position: absolute;
+  right:0px;
+  bottom:140px;
+
+}
